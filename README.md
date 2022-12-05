@@ -7,7 +7,7 @@
 - 💬 Ask me anything about Frontend
 - 📫 How to reach me: karakasibrahim64@gmail.com 
 -  🤔 Pronouns : He/Him/ 
--  ##
+ ##
 - <a href="https://www.instagram.com/ibrahim21karakas/"><img src="https://img.shields.io/badge/instagram%20@ibrahim21karakas-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 - <a href="https://twitter.com/Ibbeow/"><img src="https://img.shields.io/badge/twitter%20@Ibbeow-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
